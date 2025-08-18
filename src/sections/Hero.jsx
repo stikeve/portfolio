@@ -70,7 +70,7 @@ const Hero = () => {
           <div className="flex justify-center items-center gap-3 text-white z-10"  >
             <span className="text-sm sm:text-base">Resume :</span>
             <a 
-              href="https://drive.google.com/file/d/1SlyqehVuhxRIKKp5z7yK17zNWXhvMjTc/view" 
+              href="https://drive.google.com/file/d/1CDTZrTIlHu7pl5SDG2bsfezg_6K_0Xy3/view" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-sm sm:text-base hover:text-gray_gradient transition-colors"
@@ -79,7 +79,7 @@ const Hero = () => {
             </a>
             <span className="text-sm sm:text-base">/</span>
             <a 
-              href="https://drive.usercontent.google.com/u/0/uc?id=1SlyqehVuhxRIKKp5z7yK17zNWXhvMjTc&export=download" 
+              href="https://drive.usercontent.google.com/u/0/uc?id=1CDTZrTIlHu7pl5SDG2bsfezg_6K_0Xy3&export=download" 
               download
               className="text-sm sm:text-base hover:text-gray_gradient transition-colors"
             >

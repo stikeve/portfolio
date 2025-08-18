@@ -58,7 +58,7 @@ const Experience = () => {
                         <img
                           src={icon}
                           alt={`${name} logo`}
-                          className="w-full h-full"
+                          className="w-full h-full "
                         />
                       </div>
                       <div className="work-content_bar"></div>

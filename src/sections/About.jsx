@@ -44,12 +44,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Professional Summary</p>
               <p className="grid-subtext text-justify">
-                Results-driven Software Engineer with 2+ years of experience in
-                development, specializing in MERN stack, Java Spring Boot, and
-                microservices. Adept at designing scalable solutions, optimizing
-                system performance, and resolving complex technical challenges
-                across enterprise applications. Seeking to leverage skills in a
-                suitable role.
+               Professional with 2+ years of experience in software development and project coordination, building expertise across scalable systems and Agile delivery. Skilled in requirements analysis, timeline management, and cross-functional collaboration while drawing on a strong technical background. Passionate about expanding into management-focused roles to apply both technical and organizational skills.
               </p>
             </div>
           </div>
