@@ -1,4 +1,4 @@
-name: Build and Deploy base
+name: Build and Deploy SAM
 
 on:
   push:
