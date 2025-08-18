@@ -207,7 +207,16 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 
 export const workExperiences = [
   {
-    id: 1,
+  id: 1,
+  name: "Freelance",
+  pos: "Software Engineer",
+  duration: "09/2022 - 03/2023",
+  title:
+    "Designed, developed, and deployed a custom web application for a beauty & wellness chain (under NDA), managing the full lifecycle from requirements to delivery. \nOptimized performance through code improvements and testing, reducing load times by 30%. \nProvided 3 months of post-deployment support, resolving bugs and ensuring smooth adoption across multiple locations.",
+  icon: "/assets/AEX.png",
+},
+  {
+    id: 2,
     name: "Capgemini",
     pos: "Software Engineer",
     duration: "05/2021 - 08/2022",
@@ -216,7 +225,7 @@ export const workExperiences = [
     icon: "/assets/Capg.png",
   },
   {
-    id: 2,
+    id: 3,
     name: "Capgemini",
     pos: "Software Engineer Intern",
     duration: "01/2021 - 04/2021",
@@ -230,7 +239,7 @@ export const educationHistory = [
   {
     id: 1,
     name: "University of Limerick",
-    pos: "Masters of Science in Software Engineering",
+    pos: "Masters of Science in Software Engineering with Software Analysis and Management",
     duration: "2023–2024",
     title:
       "Focused on scalable software systems, performance engineering, and project management. \nCompleted a thesis analyzing real-world performance of modern JavaScript frameworks. \nBuilt a microservice-based hotel management system with Spring Boot and REST APIs.",
