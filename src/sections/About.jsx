@@ -105,7 +105,7 @@ const About = () => {
                   className="h-7"
                 />
                 <span className="lg:text-l md:text-sm font-medium text-grey_gradiant text-white">
-                  Ashutoshg.formal@gmail.com
+                  Ashgautam.se@gmail.com
                 </span>
               </p>
             </div>
