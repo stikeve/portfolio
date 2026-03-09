@@ -67,7 +67,7 @@ const Hero = () => {
             Software Engineer | Masters Graduate
           </p>
           {/* Resume Links */}
-          <div className="flex justify-center items-center gap-3 text-white z-10"  >
+          {/* <div className="flex justify-center items-center gap-3 text-white z-10"  >
             <span className="text-sm sm:text-base">Resume :</span>
             <a 
               href="https://drive.google.com/file/d/1SlyqehVuhxRIKKp5z7yK17zNWXhvMjTc/view" 
@@ -85,7 +85,7 @@ const Hero = () => {
             >
               Download
             </a>
-          </div>
+          </div> */}
         </div>
       <div className='w-full h-full absolute inset-0'> 
       {/* <Leva /> */}
